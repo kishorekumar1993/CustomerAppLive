@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49902000858",
+    "project_id": "eshop-multivendor-bcffe",
+    "storage_bucket": "eshop-multivendor-bcffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49902000858:android:1de38390ff8e6c720e63e3",
+        "android_client_info": {
+          "package_name": "eShop.multivendor.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49902000858-9keo44ipgv0jpjn95tkvf8r8ieed3k33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvECaVylzZkM1IY8pnqbEeArBLSSnNIh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49902000858-9keo44ipgv0jpjn95tkvf8r8ieed3k33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
